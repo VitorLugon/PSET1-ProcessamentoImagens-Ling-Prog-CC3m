@@ -17,3 +17,16 @@ Os pixels da imagem serão invertidos, os valores [29, 89, 136, 200] passarão a
     
 # QUESTAO 4
 
+![image](https://github.com/VitorLugon/PSET1-ProcessamentoImagens-Ling-Prog-CC3m/assets/103381252/9cc30f44-510c-481e-9314-754ae26ac5ba)
+
+# QUESTAO 5
+
+Podemos utilizar um kernel caixa de desfoque box blur ![image](https://github.com/VitorLugon/PSET1-ProcessamentoImagens-Ling-Prog-CC3m/assets/103381252/08f05c5d-2b21-43ab-934c-9cb7138d2aec)
+Os pixels da imagem resultante serão a média ponderada dos pixels vizinhos da imagem de entrada.
+
+# QUESTAO 6
+
+
+
+
+
