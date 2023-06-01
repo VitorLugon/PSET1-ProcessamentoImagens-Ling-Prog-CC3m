@@ -25,8 +25,8 @@ Podemos utilizar um kernel caixa de desfoque box blur ![image](https://github.co
 Os pixels da imagem resultante serão a média ponderada dos pixels vizinhos da imagem de entrada.
 
 # QUESTAO 6
+O kernel kx aplica um filtro de suavização ou borramento das bordas horizontais da imagem e o kernel ky aplica o mesmo filtro na vertical.
 
-
-
+Ox,y = round(√Ox^2x,y + Oy^2x,y)
 
 
